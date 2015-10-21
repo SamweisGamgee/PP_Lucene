@@ -6,5 +6,6 @@ public class Class2 {
 		// TEST SAMUEL
 		// 222i856
 		// SAMUEL 2
+		// SAMUEL 3
 	}
 }
