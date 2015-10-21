@@ -5,7 +5,11 @@ public static void main(String[] args) {
 
 	//TEST CHRISTIAN
 	//TEST SAMUEL
+<<<<<<< HEAD
 
+=======
+//222i856
+>>>>>>> branch 'master' of https://github.com/SamweisGamgee/PP_Lucene.git
 	
 
 
